@@ -123,7 +123,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #7f7fd5;
-  --yun-bg-image: url("https://imglf3.lf127.net/img/NE9BOE12MHFIeHp3VjQvNHl3cmlxNWJJYjNKUzFaNzRQVGk4L1RXdzFlSGNMcXh6YjBDdWRnPT0.jpg?imageView&thumbnail=1000x0&type=jpg");
+  --yun-bg-image: url("https://seikim.com/i/2022/05/26/12249tm.jpg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -1799,7 +1799,7 @@ body::before {
   max-height: 10000px;
 }
 :root {
-  --sidebar-bg-image: url("https://imglf3.lf127.net/img/NE9BOE12MHFIeHp3VjQvNHl3cmlxNWJJYjNKUzFaNzRQVGk4L1RXdzFlSGNMcXh6YjBDdWRnPT0.jpg?imageView&thumbnail=1000x0&type=jpg");
+  --sidebar-bg-image: url("https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF&hs=0&pn=5&spn=0&di=7084067677328637953&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=4036158736%2C143676862&os=4002464349%2C1136305874&simid=4036158736%2C143676862&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201808%2F19%2F20180819133522_prilf.jpg%26refer%3Dhttp%3A%2F%2Fb-ssl.duitang.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1656169148%26t%3D52a71c52b759a78b6749b78d546a695b&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dl0l9dnlna&gsm=6&islist=&querylist=&dyTabStr=MCwzLDYsMSw1LDQsOCw3LDIsOQ%3D%3D");
 }
 #menu-btn {
   display: none;
